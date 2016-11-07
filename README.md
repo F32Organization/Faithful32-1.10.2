@@ -1,2 +1,2 @@
-# Faithful32-1.9.4
-1.9 repository for Faithful 32 Modded Edition
+# Faithful32-1.10.2
+1.10.2 repository for Faithful 32 Modded Edition
